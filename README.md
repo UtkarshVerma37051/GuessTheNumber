@@ -9,4 +9,4 @@ the output will be Right numbers : 2 and right location : 1 because
 
 > Note : You will not be able to see the right numbers, only the count of right numbers.
 
-The challenge is to guess the numbers in the maximum possible moves.
+The challenge is to guess the numbers in the minimum possible moves.
